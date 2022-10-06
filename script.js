@@ -14,3 +14,9 @@ console.log(funcionsum)
 console.log(funcionrestar)
 console.log(funcionmultiplicar)
 console.log(funcionsdividir)
+
+
+array = [num1 = "Hola", num2 = "Matias"]
+for (let value of array) {
+    console.log(value)
+}
